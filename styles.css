@@ -95,7 +95,7 @@ nav {
 .cursor {
   width: calc(92 * var(--unit-fx));
   height: calc(92 * var(--unit-fx));
-  background-color: #ff5f38;
+  background-color: #ff5e00;
   color: #000;
   border-radius: 50%;
   font-family: rejoice;
